@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "source": "bageshuo",
+  "time_zone": "Asia/Shanghai",
+  "character_rule": "final_text_code_points",
+  "session_rule": "completed_dictations",
+  "days": [
+    {"date": "2025-01-10", "characters": 300, "sessions": 3, "recording_seconds": 30},
+    {"date": "2025-01-12", "characters": 500, "sessions": 4, "recording_seconds": 50}
+  ]
+}
